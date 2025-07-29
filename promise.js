@@ -14,7 +14,7 @@ function step1(){
             // console.log("step1 Completed!!");
             resolve();
         }else{
-            // console.log("step1 failed!!")
+            // console.log("step1 failed!!
             reject()
         }
     },5000);
